@@ -31,7 +31,7 @@ https://github.com/user-attachments/assets/15cddbe8-defa-44a2-bd61-9b59ef6a2e48
 
 
 ## 📄 License
-This project is licensed under the GNU General Public License v3.0. See [LICENSE](https://github.com/paultisseyre/SteamsharemasterSSM/blob/main/LICENSE) for details.
+This project is licensed under the GNU General Public License v3.0. See [LICENSE](https://github.com/p4ul-t/geoguessr-for-desktop/blob/main/LICENSE) for details.
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the project, submit issues, or create pull requests.
