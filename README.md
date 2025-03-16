@@ -16,7 +16,8 @@ GeoGuessr for Desktop is a simple Windows application built with Electron JS tha
 3. Connect to your account and play !
 
 ## 🛠 Usage
-To exit the program just hit `⊞ Windows` and right click on it in your taskbar and close it OR `Alt+Ctrl+Tab` and close it.
+- To exit the program just hit `⊞ Windows` and right click on it in your taskbar and close it. 
+- *OR* `Alt+Ctrl+Tab` and close it.
 
 
 
