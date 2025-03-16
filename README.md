@@ -37,5 +37,5 @@ This project is licensed under the GNU General Public License v3.0. See [LICENSE
 Contributions are welcome! Feel free to fork the project, submit issues, or create pull requests.
 
 ## ⭐ Support
-If you find this software useful, consider buying me a cup of coffee on Paypal :  
+If you find this application useful, consider buying me a cup of coffee on Paypal :  
 [Buy me a coffee](https://www.paypal.com/paypalme/poluxyoutube?country.x=FR&locale.x=fr_FR)
