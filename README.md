@@ -11,7 +11,7 @@ GeoGuessr for Desktop is a simple Windows application built with Electron JS tha
 - Low latency
 
 ## 📥 Installation
-1. [Download](https://github.com/paultisseyre/SteamsharemasterSSM/releases)
+1. [Download](https://github.com/p4ul-t/geoguessr-for-desktop/releases)
 2. Double click on `GeoGuessr Setup 1.0.0.exe` to install it.
 3. Connect to your account and play !
 
