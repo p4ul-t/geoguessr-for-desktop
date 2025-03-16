@@ -1,4 +1,4 @@
-# My Electron App
+# Geo Guessr Desktop
 
 This is a simple Electron application that loads GeoGuessr in a fullscreen window.
 
@@ -12,7 +12,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 2. Navigate to the project directory:
 
    ```
-   cd my-electron-app
+   cd geo-guessr-desktop
    ```
 
 3. Install the dependencies:
