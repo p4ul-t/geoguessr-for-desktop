@@ -1,7 +1,7 @@
 # Geo Guessr for Desktop 
 
 ## 📝 Description
-GeoGuessr for Desktop is a simple Windows application built with Electron JS that allows you to play GeoGuessr in fullscreen mode. This app uses the web version of GeoGuessr but integrates it into a desktop application for improved fluidity and faster response times. By eliminating browser-related delays, GeoGuessr for Desktop provides a smoother and more responsive gaming experience, offering better performance and quicker load times compared to the web version.
+GeoGuessr for Desktop is a simple Windows application built with Electron JS that allows you to play GeoGuessr in fullscreen mode. This app uses the web version of GeoGuessr but integrates it into a desktop application for improved fluidity and faster response times. By eliminating browser-related delays, GeoGuessr for Desktop provides a smoother and more responsive gaming experience, offering better performance and quicker load times compared to the browser version.
 - GeoGuessr for Desktop has NO affiliation with GeoGuessr.  
 - GeoGuessr is a trademark of GeoGuessr AB.
 
