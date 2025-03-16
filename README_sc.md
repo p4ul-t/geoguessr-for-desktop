@@ -22,9 +22,16 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    ```
    npm install
    ```
+   
 
 ## Create the .exe
 
 ```
 npm run dist
 ```
+if you got an error message, run this command before : 
+
+   ```
+npm install electron@^35.0.2 --save-dev
+
+   ```
